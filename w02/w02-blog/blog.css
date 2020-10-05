@@ -1,0 +1,41 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  margin: 20px auto;
+  padding: 10px;
+  border: 15px solid #92c4ba;
+  width: 85%;
+  font-family: sans-serif;
+  font-size: 16px;
+  color: #374c60;
+}
+
+.date {
+  text-transform: uppercase;
+  /* letter-spacing: 0.05rem; */
+  color: rgb(23, 86, 141);
+  font-weight: 600;
+  padding-bottom: 15px;
+  padding-top: 15px;
+}
+
+h2 {
+  font-size: 1.4rem;
+  font-weight: bold;
+  color: #374c60;
+  padding-bottom: 15px;
+}
+
+.quote {
+  border-left: 5px solid#b7dad3;
+  padding-left: 5px;
+}
+
+.post-info {
+  margin: 10px;
+  padding-bottom: 5px;
+}
