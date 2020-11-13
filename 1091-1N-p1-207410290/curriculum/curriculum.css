@@ -1,0 +1,75 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+
+.container{
+    padding-top: 10px;
+    padding-bottom: 20px;
+
+    margin:auto;
+}
+
+table {
+    border: 1px solid;
+    padding: 5px;
+    font-size: 14px;
+}
+td {
+    text-align: center;
+    max-width: 80px;
+    height: 40px;
+    word-break: break-all;
+    
+    
+}
+
+.name {
+    background-color: #4d6266;
+    border:1px white solid;
+    color: white;
+    font-size: 18px;
+}
+
+.tablename {
+    border:1px white solid;
+    background-color: #50818a;
+    color: white;
+    font-size: 18px;
+}
+
+.weekday {
+    background-color: #35b8cf;
+    font-size: 18px;
+    border:1px white solid;
+}
+
+.number {
+    width: 18px;
+    background-color: #76a5ad;
+    border:1px white solid;
+}
+
+.time {
+    background-color:  #95c6cf;
+    border:1px white solid;
+}
+
+.content {
+    background-color:  #75c3d1;
+    border:1px white solid;
+}
+
+.contact {
+    background-color: #76a5ad;
+    border:1px white solid;
+}
+
+.contactinfo {
+    background-color:  #50818a;
+    color:white;
+    border:1px white solid;
+    text-align: left;
+    padding-left: 5px;
+}
